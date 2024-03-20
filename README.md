@@ -8,3 +8,4 @@ As análise dos dados do portal de dados abertos da UFRN visa identificar os efe
 - dados_matriculas: corresponde aos dados obtidos no portal de dados abertos https://dados.ufrn.br/dataset/matriculas-componentes referentes ao intervalo de anos 2013-2022
 - dicionario-de-dados---matriculas-em-componentes: metadados do dataset das matriculas  dados_matriculas
 - script_processamento.R:  Corresponde ao script utilizado para manipulação dos dados e obtenção dos resultados
+- link pasta drive compartilhada com prof.: https://drive.google.com/drive/folders/1QbBeChsTxi8FeTjtFpV70-OowfCtLNeD
