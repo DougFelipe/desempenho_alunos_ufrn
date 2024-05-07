@@ -1,5 +1,5 @@
 # Análise dos impactos da mudança de regulamento e critérios de aprovação da UFRN
-As análise dos dados do portal de dados abertos da UFRN visa identificar os efeitos da mudançados critérios de aprovação baseados em dados do ano de 2022, não refletem exatamente o comportamentoem situações futuras mas, como análise retrospectiva, podem servir para fundamentar algumas inferências a situações futuras
+As análise dos dados do portal de dados abertos da UFRN relativos a cursus, matrículas e turmas com o intuito de identificar os principais fatores que influenciam as notas e status de aprovação dos alunos
 
 ## Conteúdo do repositório
 
